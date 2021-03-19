@@ -1,0 +1,19 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Title</title>\r\n</head>\r\n<body>\r\n<table>\r\n    <tr>\r\n        <td>Nama Lengkap</td>\r\n        <td>NIM</td>\r\n    </tr>\r\n\r\n    <tr>\r\n        <td>Nadya Prima Putri</td>\r\n        <td>6701193034</td>\r\n    </tr>\r\n</table>\r\n\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision dfe7d927db9a9f2043813489ca6f1f028a729567)
++++ b/index.html	(date 1616178102036)
+@@ -5,7 +5,7 @@
+     <title>Title</title>
+ </head>
+ <body>
+-<table>
++<table border="1">
+     <tr>
+         <td>Nama Lengkap</td>
+         <td>NIM</td>
